@@ -305449,19 +305449,6 @@
     <wikiDataId>Q3432926</wikiDataId>
   </city>
   <city>
-    <id>30957</id>
-    <name>Vallensbæk</name>
-    <state_id>1530</state_id>
-    <state_code>84</state_code>
-    <state_name>Capital Region of Denmark</state_name>
-    <country_id>59</country_id>
-    <country_code>DK</country_code>
-    <country_name>Denmark</country_name>
-    <latitude>55.62199000</latitude>
-    <longitude>12.38511000</longitude>
-    <wikiDataId>Q2590975</wikiDataId>
-  </city>
-  <city>
     <id>30958</id>
     <name>Vallensbæk Kommune</name>
     <state_id>1530</state_id>
@@ -305473,6 +305460,19 @@
     <latitude>55.63128000</latitude>
     <longitude>12.37369000</longitude>
     <wikiDataId>Q514844</wikiDataId>
+  </city>
+  <city>
+    <id>30957</id>
+    <name>Vallensbæk Strand</name>
+    <state_id>1530</state_id>
+    <state_code>84</state_code>
+    <state_name>Capital Region of Denmark</state_name>
+    <country_id>59</country_id>
+    <country_code>DK</country_code>
+    <country_name>Denmark</country_name>
+    <latitude>55.62199000</latitude>
+    <longitude>12.38511000</longitude>
+    <wikiDataId>Q2590975</wikiDataId>
   </city>
   <city>
     <id>30960</id>
@@ -1028990,6 +1028990,32 @@
     <wikiDataId>Q574593</wikiDataId>
   </city>
   <city>
+    <id>153687</id>
+    <name>Abule Egba</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.65074410</latitude>
+    <longitude>3.26554510</longitude>
+    <wikiDataId>Q16733311</wikiDataId>
+  </city>
+  <city>
+    <id>153665</id>
+    <name>Agege</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.61522360</latitude>
+    <longitude>3.30029700</longitude>
+    <wikiDataId>Q3509545</wikiDataId>
+  </city>
+  <city>
     <id>153661</id>
     <name>Alimosho</name>
     <state_id>306</state_id>
@@ -1029000,7 +1029026,20 @@
     <country_name>Nigeria</country_name>
     <latitude>6.58890000</latitude>
     <longitude>3.24850000</longitude>
-    <wikiDataId>Q124622120</wikiDataId>
+    <wikiDataId>Q3509580</wikiDataId>
+  </city>
+  <city>
+    <id>153672</id>
+    <name>Amuwo-Odofin</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.44674340</latitude>
+    <longitude>3.19682600</longitude>
+    <wikiDataId>Q3509621</wikiDataId>
   </city>
   <city>
     <id>76775</id>
@@ -1029029,6 +1029068,19 @@
     <wikiDataId>Q793588</wikiDataId>
   </city>
   <city>
+    <id>153677</id>
+    <name>Bariga</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.53931230</latitude>
+    <longitude>3.37627060</longitude>
+    <wikiDataId>Q21294921</wikiDataId>
+  </city>
+  <city>
     <id>76851</id>
     <name>Ebute Ikorodu</name>
     <state_id>306</state_id>
@@ -1029040,6 +1029092,19 @@
     <latitude>6.60086000</latitude>
     <longitude>3.48818000</longitude>
     <wikiDataId>Q1173023</wikiDataId>
+  </city>
+  <city>
+    <id>153686</id>
+    <name>Ebute Metta</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.48437590</latitude>
+    <longitude>3.37591680</longitude>
+    <wikiDataId>Q5332126</wikiDataId>
   </city>
   <city>
     <id>76857</id>
@@ -1029068,6 +1029133,97 @@
     <wikiDataId>Q1023707</wikiDataId>
   </city>
   <city>
+    <id>153666</id>
+    <name>Eti-Osa</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.46812400</latitude>
+    <longitude>3.37093780</longitude>
+    <wikiDataId>Q5404527</wikiDataId>
+  </city>
+  <city>
+    <id>153680</id>
+    <name>Festac</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.47178330</latitude>
+    <longitude>3.26493870</longitude>
+    <wikiDataId>Q5445658</wikiDataId>
+  </city>
+  <city>
+    <id>153674</id>
+    <name>Ibeju-Lekki</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.45764360</latitude>
+    <longitude>3.62324400</longitude>
+    <wikiDataId>Q5983804</wikiDataId>
+  </city>
+  <city>
+    <id>153682</id>
+    <name>Idimu</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.58337980</latitude>
+    <longitude>3.20442780</longitude>
+    <wikiDataId>Q59816091</wikiDataId>
+  </city>
+  <city>
+    <id>153671</id>
+    <name>Ifako-Ijaiye</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.68309720</latitude>
+    <longitude>3.22079170</longitude>
+    <wikiDataId>Q5991116</wikiDataId>
+  </city>
+  <city>
+    <id>153681</id>
+    <name>Igando</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.55132390</latitude>
+    <longitude>3.22181130</longitude>
+    <wikiDataId>Q26213412</wikiDataId>
+  </city>
+  <city>
+    <id>153679</id>
+    <name>Ijora</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.46330450</latitude>
+    <longitude>3.34062410</longitude>
+    <wikiDataId>Q28401809</wikiDataId>
+  </city>
+  <city>
     <id>76932</id>
     <name>Ikeja</name>
     <state_id>306</state_id>
@@ -1029079,6 +1029235,45 @@
     <latitude>6.59651000</latitude>
     <longitude>3.34205000</longitude>
     <wikiDataId>Q5995177</wikiDataId>
+  </city>
+  <city>
+    <id>153663</id>
+    <name>Ikorodu</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.61526000</latitude>
+    <longitude>3.50690000</longitude>
+    <wikiDataId>Q1658159</wikiDataId>
+  </city>
+  <city>
+    <id>153683</id>
+    <name>Ipaja</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.60983200</latitude>
+    <longitude>3.22299940</longitude>
+    <wikiDataId>Q94751205</wikiDataId>
+  </city>
+  <city>
+    <id>153664</id>
+    <name>Isheri-Olofin</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.58092030</latitude>
+    <longitude>3.27417280</longitude>
+    <wikiDataId>Q94751188</wikiDataId>
   </city>
   <city>
     <id>77002</id>
@@ -1029094,6 +1029289,32 @@
     <wikiDataId>Q8673</wikiDataId>
   </city>
   <city>
+    <id>153662</id>
+    <name>Lagos Island</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.44999820</latitude>
+    <longitude>3.39999840</longitude>
+    <wikiDataId>Q98000447</wikiDataId>
+  </city>
+  <city>
+    <id>153673</id>
+    <name>Lekki</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.51148130</latitude>
+    <longitude>3.44453810</longitude>
+    <wikiDataId>Q25247514</wikiDataId>
+  </city>
+  <city>
     <id>77020</id>
     <name>Makoko</name>
     <state_id>306</state_id>
@@ -1029105,6 +1029326,136 @@
     <latitude>6.49611000</latitude>
     <longitude>3.38778000</longitude>
     <wikiDataId>Q6739858</wikiDataId>
+  </city>
+  <city>
+    <id>153668</id>
+    <name>Mushin</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.53563240</latitude>
+    <longitude>3.33022530</longitude>
+    <wikiDataId>Q3139881</wikiDataId>
+  </city>
+  <city>
+    <id>153684</id>
+    <name>Ogba</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.62306240</latitude>
+    <longitude>3.33418360</longitude>
+    <wikiDataId>Q31793608</wikiDataId>
+  </city>
+  <city>
+    <id>153667</id>
+    <name>Ojo</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.46202130</latitude>
+    <longitude>3.07969150</longitude>
+    <wikiDataId>Q623249</wikiDataId>
+  </city>
+  <city>
+    <id>153688</id>
+    <name>Ojodu Berger</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.64545230</latitude>
+    <longitude>3.36639730</longitude>
+    <wikiDataId>Q124669880</wikiDataId>
+  </city>
+  <city>
+    <id>153685</id>
+    <name>Ojota</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.58516560</latitude>
+    <longitude>3.37092540</longitude>
+    <wikiDataId>Q59816186</wikiDataId>
+  </city>
+  <city>
+    <id>153670</id>
+    <name>Oshodi-Isolo</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.53654830</latitude>
+    <longitude>3.27551430</longitude>
+    <wikiDataId>Q7106648</wikiDataId>
+  </city>
+  <city>
+    <id>153675</id>
+    <name>Shomolu</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.53759550</latitude>
+    <longitude>3.36506450</longitude>
+    <wikiDataId>Q280585</wikiDataId>
+  </city>
+  <city>
+    <id>153669</id>
+    <name>Surulere</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.49009830</latitude>
+    <longitude>3.30251430</longitude>
+    <wikiDataId>Q994119</wikiDataId>
+  </city>
+  <city>
+    <id>153676</id>
+    <name>Victoria Island</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.42998400</latitude>
+    <longitude>3.40224490</longitude>
+    <wikiDataId>Q2522772</wikiDataId>
+  </city>
+  <city>
+    <id>153678</id>
+    <name>Yaba</name>
+    <state_id>306</state_id>
+    <state_code>LA</state_code>
+    <state_name>Lagos</state_name>
+    <country_id>161</country_id>
+    <country_code>NG</country_code>
+    <country_name>Nigeria</country_name>
+    <latitude>6.50594570</latitude>
+    <longitude>3.36012860</longitude>
+    <wikiDataId>Q3509639</wikiDataId>
   </city>
   <city>
     <id>76815</id>
@@ -1955111,7 +1955462,7 @@
   </city>
   <city>
     <id>130995</id>
-    <name>Village of ALAMRAH</name>
+    <name>Village of Alamrah</name>
     <state_id>1231</state_id>
     <state_code>TA</state_code>
     <state_name>Ta'izz</state_name>

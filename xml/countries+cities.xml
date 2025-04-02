@@ -146124,16 +146124,16 @@
       <longitude>9.85700000</longitude>
     </cities>
     <cities>
-      <id>30957</id>
-      <name>Vallensbæk</name>
-      <latitude>55.62199000</latitude>
-      <longitude>12.38511000</longitude>
-    </cities>
-    <cities>
       <id>30958</id>
       <name>Vallensbæk Kommune</name>
       <latitude>55.63128000</latitude>
       <longitude>12.37369000</longitude>
+    </cities>
+    <cities>
+      <id>30957</id>
+      <name>Vallensbæk Strand</name>
+      <latitude>55.62199000</latitude>
+      <longitude>12.38511000</longitude>
     </cities>
     <cities>
       <id>30959</id>
@@ -481241,6 +481241,12 @@
       <longitude>7.49508000</longitude>
     </cities>
     <cities>
+      <id>153687</id>
+      <name>Abule Egba</name>
+      <latitude>6.65074410</latitude>
+      <longitude>3.26554510</longitude>
+    </cities>
+    <cities>
       <id>76750</id>
       <name>Adani</name>
       <latitude>6.73971000</latitude>
@@ -481281,6 +481287,12 @@
       <name>Agbor</name>
       <latitude>6.25375000</latitude>
       <longitude>6.19420000</longitude>
+    </cities>
+    <cities>
+      <id>153665</id>
+      <name>Agege</name>
+      <latitude>6.61522360</latitude>
+      <longitude>3.30029700</longitude>
     </cities>
     <cities>
       <id>76757</id>
@@ -481383,6 +481395,12 @@
       <name>Amper</name>
       <latitude>9.35509000</latitude>
       <longitude>9.70121000</longitude>
+    </cities>
+    <cities>
+      <id>153672</id>
+      <name>Amuwo-Odofin</name>
+      <latitude>6.44674340</latitude>
+      <longitude>3.19682600</longitude>
     </cities>
     <cities>
       <id>76772</id>
@@ -481533,6 +481551,12 @@
       <name>Bara</name>
       <latitude>10.37444000</latitude>
       <longitude>10.72884000</longitude>
+    </cities>
+    <cities>
+      <id>153677</id>
+      <name>Bariga</name>
+      <latitude>6.53931230</latitude>
+      <longitude>3.37627060</longitude>
     </cities>
     <cities>
       <id>76795</id>
@@ -481895,6 +481919,12 @@
       <longitude>3.48818000</longitude>
     </cities>
     <cities>
+      <id>153686</id>
+      <name>Ebute Metta</name>
+      <latitude>6.48437590</latitude>
+      <longitude>3.37591680</longitude>
+    </cities>
+    <cities>
       <id>76852</id>
       <name>Effium</name>
       <latitude>6.63105000</latitude>
@@ -481991,10 +482021,22 @@
       <longitude>7.45341000</longitude>
     </cities>
     <cities>
+      <id>153666</id>
+      <name>Eti-Osa</name>
+      <latitude>6.46812400</latitude>
+      <longitude>3.37093780</longitude>
+    </cities>
+    <cities>
       <id>76867</id>
       <name>Ezza-Ohu</name>
       <latitude>6.44094000</latitude>
       <longitude>8.08432000</longitude>
+    </cities>
+    <cities>
+      <id>153680</id>
+      <name>Festac</name>
+      <latitude>6.47178330</latitude>
+      <longitude>3.26493870</longitude>
     </cities>
     <cities>
       <id>76868</id>
@@ -482255,6 +482297,12 @@
       <longitude>3.90591000</longitude>
     </cities>
     <cities>
+      <id>153674</id>
+      <name>Ibeju-Lekki</name>
+      <latitude>6.45764360</latitude>
+      <longitude>3.62324400</longitude>
+    </cities>
+    <cities>
       <id>76907</id>
       <name>Ibeto</name>
       <latitude>10.48536000</latitude>
@@ -482291,10 +482339,22 @@
       <longitude>2.73333000</longitude>
     </cities>
     <cities>
+      <id>153682</id>
+      <name>Idimu</name>
+      <latitude>6.58337980</latitude>
+      <longitude>3.20442780</longitude>
+    </cities>
+    <cities>
       <id>76913</id>
       <name>Ifaki</name>
       <latitude>7.78942000</latitude>
       <longitude>5.24852000</longitude>
+    </cities>
+    <cities>
+      <id>153671</id>
+      <name>Ifako-Ijaiye</name>
+      <latitude>6.68309720</latitude>
+      <longitude>3.22079170</longitude>
     </cities>
     <cities>
       <id>76914</id>
@@ -482307,6 +482367,12 @@
       <name>Ifon</name>
       <latitude>6.92973000</latitude>
       <longitude>5.77368000</longitude>
+    </cities>
+    <cities>
+      <id>153681</id>
+      <name>Igando</name>
+      <latitude>6.55132390</latitude>
+      <longitude>3.22181130</longitude>
     </cities>
     <cities>
       <id>76916</id>
@@ -482399,6 +482465,12 @@
       <longitude>5.06716000</longitude>
     </cities>
     <cities>
+      <id>153679</id>
+      <name>Ijora</name>
+      <latitude>6.46330450</latitude>
+      <longitude>3.34062410</longitude>
+    </cities>
+    <cities>
       <id>76931</id>
       <name>Ikang</name>
       <latitude>4.78978000</latitude>
@@ -482433,6 +482505,12 @@
       <name>Ikirun</name>
       <latitude>7.91283000</latitude>
       <longitude>4.66741000</longitude>
+    </cities>
+    <cities>
+      <id>153663</id>
+      <name>Ikorodu</name>
+      <latitude>6.61526000</latitude>
+      <longitude>3.50690000</longitude>
     </cities>
     <cities>
       <id>76937</id>
@@ -482507,6 +482585,12 @@
       <longitude>4.33333000</longitude>
     </cities>
     <cities>
+      <id>153683</id>
+      <name>Ipaja</name>
+      <latitude>6.60983200</latitude>
+      <longitude>3.22299940</longitude>
+    </cities>
+    <cities>
       <id>76949</id>
       <name>Iperu</name>
       <latitude>6.91002000</latitude>
@@ -482535,6 +482619,12 @@
       <name>Ise-Ekiti</name>
       <latitude>7.46478000</latitude>
       <longitude>5.42333000</longitude>
+    </cities>
+    <cities>
+      <id>153664</id>
+      <name>Isheri-Olofin</name>
+      <latitude>6.58092030</latitude>
+      <longitude>3.27417280</longitude>
     </cities>
     <cities>
       <id>76954</id>
@@ -482855,6 +482945,12 @@
       <longitude>3.39467000</longitude>
     </cities>
     <cities>
+      <id>153662</id>
+      <name>Lagos Island</name>
+      <latitude>6.44999820</latitude>
+      <longitude>3.39999840</longitude>
+    </cities>
+    <cities>
       <id>77003</id>
       <name>Lajere</name>
       <latitude>11.98022000</latitude>
@@ -482889,6 +482985,12 @@
       <name>Lau</name>
       <latitude>9.20827000</latitude>
       <longitude>11.27541000</longitude>
+    </cities>
+    <cities>
+      <id>153673</id>
+      <name>Lekki</name>
+      <latitude>6.51148130</latitude>
+      <longitude>3.44453810</longitude>
     </cities>
     <cities>
       <id>77009</id>
@@ -483059,6 +483161,12 @@
       <longitude>13.26701000</longitude>
     </cities>
     <cities>
+      <id>153668</id>
+      <name>Mushin</name>
+      <latitude>6.53563240</latitude>
+      <longitude>3.33022530</longitude>
+    </cities>
+    <cities>
       <id>77036</id>
       <name>Mutum Biyu</name>
       <latitude>8.64138000</latitude>
@@ -483167,6 +483275,12 @@
       <longitude>6.21798000</longitude>
     </cities>
     <cities>
+      <id>153684</id>
+      <name>Ogba</name>
+      <latitude>6.62306240</latitude>
+      <longitude>3.33418360</longitude>
+    </cities>
+    <cities>
       <id>77053</id>
       <name>Ogbomoso</name>
       <latitude>8.13373000</latitude>
@@ -483195,6 +483309,24 @@
       <name>Ohafia-Ifigh</name>
       <latitude>5.61455000</latitude>
       <longitude>7.81191000</longitude>
+    </cities>
+    <cities>
+      <id>153667</id>
+      <name>Ojo</name>
+      <latitude>6.46202130</latitude>
+      <longitude>3.07969150</longitude>
+    </cities>
+    <cities>
+      <id>153688</id>
+      <name>Ojodu Berger</name>
+      <latitude>6.64545230</latitude>
+      <longitude>3.36639730</longitude>
+    </cities>
+    <cities>
+      <id>153685</id>
+      <name>Ojota</name>
+      <latitude>6.58516560</latitude>
+      <longitude>3.37092540</longitude>
     </cities>
     <cities>
       <id>77058</id>
@@ -483315,6 +483447,12 @@
       <name>Orodo</name>
       <latitude>5.61667000</latitude>
       <longitude>7.03333000</longitude>
+    </cities>
+    <cities>
+      <id>153670</id>
+      <name>Oshodi-Isolo</name>
+      <latitude>6.53654830</latitude>
+      <longitude>3.27551430</longitude>
     </cities>
     <cities>
       <id>77075</id>
@@ -483503,6 +483641,12 @@
       <longitude>12.06059000</longitude>
     </cities>
     <cities>
+      <id>153675</id>
+      <name>Shomolu</name>
+      <latitude>6.53759550</latitude>
+      <longitude>3.36506450</longitude>
+    </cities>
+    <cities>
       <id>77104</id>
       <name>Siluko</name>
       <latitude>6.53589000</latitude>
@@ -483531,6 +483675,12 @@
       <name>Suleja</name>
       <latitude>9.18059000</latitude>
       <longitude>7.17939000</longitude>
+    </cities>
+    <cities>
+      <id>153669</id>
+      <name>Surulere</name>
+      <latitude>6.49009830</latitude>
+      <longitude>3.30251430</longitude>
     </cities>
     <cities>
       <id>77109</id>
@@ -483659,6 +483809,12 @@
       <longitude>7.93350000</longitude>
     </cities>
     <cities>
+      <id>153676</id>
+      <name>Victoria Island</name>
+      <latitude>6.42998400</latitude>
+      <longitude>3.40224490</longitude>
+    </cities>
+    <cities>
       <id>77130</id>
       <name>Vom</name>
       <latitude>9.72910000</latitude>
@@ -483717,6 +483873,12 @@
       <name>Wuyo</name>
       <latitude>10.38522000</latitude>
       <longitude>11.69678000</longitude>
+    </cities>
+    <cities>
+      <id>153678</id>
+      <name>Yaba</name>
+      <latitude>6.50594570</latitude>
+      <longitude>3.36012860</longitude>
     </cities>
     <cities>
       <id>77139</id>
@@ -914705,7 +914867,7 @@
     </cities>
     <cities>
       <id>130995</id>
-      <name>Village of ALAMRAH</name>
+      <name>Village of Alamrah</name>
       <latitude>13.74318000</latitude>
       <longitude>43.72992000</longitude>
     </cities>

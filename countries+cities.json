@@ -146336,16 +146336,16 @@
                 "longitude": "9.85700000"
             },
             {
-                "id": 30957,
-                "name": "Vallensbæk",
-                "latitude": "55.62199000",
-                "longitude": "12.38511000"
-            },
-            {
                 "id": 30958,
                 "name": "Vallensbæk Kommune",
                 "latitude": "55.63128000",
                 "longitude": "12.37369000"
+            },
+            {
+                "id": 30957,
+                "name": "Vallensbæk Strand",
+                "latitude": "55.62199000",
+                "longitude": "12.38511000"
             },
             {
                 "id": 30959,
@@ -481809,6 +481809,12 @@
                 "longitude": "7.49508000"
             },
             {
+                "id": 153687,
+                "name": "Abule Egba",
+                "latitude": "6.65074410",
+                "longitude": "3.26554510"
+            },
+            {
                 "id": 76750,
                 "name": "Adani",
                 "latitude": "6.73971000",
@@ -481849,6 +481855,12 @@
                 "name": "Agbor",
                 "latitude": "6.25375000",
                 "longitude": "6.19420000"
+            },
+            {
+                "id": 153665,
+                "name": "Agege",
+                "latitude": "6.61522360",
+                "longitude": "3.30029700"
             },
             {
                 "id": 76757,
@@ -481951,6 +481963,12 @@
                 "name": "Amper",
                 "latitude": "9.35509000",
                 "longitude": "9.70121000"
+            },
+            {
+                "id": 153672,
+                "name": "Amuwo-Odofin",
+                "latitude": "6.44674340",
+                "longitude": "3.19682600"
             },
             {
                 "id": 76772,
@@ -482101,6 +482119,12 @@
                 "name": "Bara",
                 "latitude": "10.37444000",
                 "longitude": "10.72884000"
+            },
+            {
+                "id": 153677,
+                "name": "Bariga",
+                "latitude": "6.53931230",
+                "longitude": "3.37627060"
             },
             {
                 "id": 76795,
@@ -482463,6 +482487,12 @@
                 "longitude": "3.48818000"
             },
             {
+                "id": 153686,
+                "name": "Ebute Metta",
+                "latitude": "6.48437590",
+                "longitude": "3.37591680"
+            },
+            {
                 "id": 76852,
                 "name": "Effium",
                 "latitude": "6.63105000",
@@ -482559,10 +482589,22 @@
                 "longitude": "7.45341000"
             },
             {
+                "id": 153666,
+                "name": "Eti-Osa",
+                "latitude": "6.46812400",
+                "longitude": "3.37093780"
+            },
+            {
                 "id": 76867,
                 "name": "Ezza-Ohu",
                 "latitude": "6.44094000",
                 "longitude": "8.08432000"
+            },
+            {
+                "id": 153680,
+                "name": "Festac",
+                "latitude": "6.47178330",
+                "longitude": "3.26493870"
             },
             {
                 "id": 76868,
@@ -482823,6 +482865,12 @@
                 "longitude": "3.90591000"
             },
             {
+                "id": 153674,
+                "name": "Ibeju-Lekki",
+                "latitude": "6.45764360",
+                "longitude": "3.62324400"
+            },
+            {
                 "id": 76907,
                 "name": "Ibeto",
                 "latitude": "10.48536000",
@@ -482859,10 +482907,22 @@
                 "longitude": "2.73333000"
             },
             {
+                "id": 153682,
+                "name": "Idimu",
+                "latitude": "6.58337980",
+                "longitude": "3.20442780"
+            },
+            {
                 "id": 76913,
                 "name": "Ifaki",
                 "latitude": "7.78942000",
                 "longitude": "5.24852000"
+            },
+            {
+                "id": 153671,
+                "name": "Ifako-Ijaiye",
+                "latitude": "6.68309720",
+                "longitude": "3.22079170"
             },
             {
                 "id": 76914,
@@ -482875,6 +482935,12 @@
                 "name": "Ifon",
                 "latitude": "6.92973000",
                 "longitude": "5.77368000"
+            },
+            {
+                "id": 153681,
+                "name": "Igando",
+                "latitude": "6.55132390",
+                "longitude": "3.22181130"
             },
             {
                 "id": 76916,
@@ -482967,6 +483033,12 @@
                 "longitude": "5.06716000"
             },
             {
+                "id": 153679,
+                "name": "Ijora",
+                "latitude": "6.46330450",
+                "longitude": "3.34062410"
+            },
+            {
                 "id": 76931,
                 "name": "Ikang",
                 "latitude": "4.78978000",
@@ -483001,6 +483073,12 @@
                 "name": "Ikirun",
                 "latitude": "7.91283000",
                 "longitude": "4.66741000"
+            },
+            {
+                "id": 153663,
+                "name": "Ikorodu",
+                "latitude": "6.61526000",
+                "longitude": "3.50690000"
             },
             {
                 "id": 76937,
@@ -483075,6 +483153,12 @@
                 "longitude": "4.33333000"
             },
             {
+                "id": 153683,
+                "name": "Ipaja",
+                "latitude": "6.60983200",
+                "longitude": "3.22299940"
+            },
+            {
                 "id": 76949,
                 "name": "Iperu",
                 "latitude": "6.91002000",
@@ -483103,6 +483187,12 @@
                 "name": "Ise-Ekiti",
                 "latitude": "7.46478000",
                 "longitude": "5.42333000"
+            },
+            {
+                "id": 153664,
+                "name": "Isheri-Olofin",
+                "latitude": "6.58092030",
+                "longitude": "3.27417280"
             },
             {
                 "id": 76954,
@@ -483423,6 +483513,12 @@
                 "longitude": "3.39467000"
             },
             {
+                "id": 153662,
+                "name": "Lagos Island",
+                "latitude": "6.44999820",
+                "longitude": "3.39999840"
+            },
+            {
                 "id": 77003,
                 "name": "Lajere",
                 "latitude": "11.98022000",
@@ -483457,6 +483553,12 @@
                 "name": "Lau",
                 "latitude": "9.20827000",
                 "longitude": "11.27541000"
+            },
+            {
+                "id": 153673,
+                "name": "Lekki",
+                "latitude": "6.51148130",
+                "longitude": "3.44453810"
             },
             {
                 "id": 77009,
@@ -483627,6 +483729,12 @@
                 "longitude": "13.26701000"
             },
             {
+                "id": 153668,
+                "name": "Mushin",
+                "latitude": "6.53563240",
+                "longitude": "3.33022530"
+            },
+            {
                 "id": 77036,
                 "name": "Mutum Biyu",
                 "latitude": "8.64138000",
@@ -483735,6 +483843,12 @@
                 "longitude": "6.21798000"
             },
             {
+                "id": 153684,
+                "name": "Ogba",
+                "latitude": "6.62306240",
+                "longitude": "3.33418360"
+            },
+            {
                 "id": 77053,
                 "name": "Ogbomoso",
                 "latitude": "8.13373000",
@@ -483763,6 +483877,24 @@
                 "name": "Ohafia-Ifigh",
                 "latitude": "5.61455000",
                 "longitude": "7.81191000"
+            },
+            {
+                "id": 153667,
+                "name": "Ojo",
+                "latitude": "6.46202130",
+                "longitude": "3.07969150"
+            },
+            {
+                "id": 153688,
+                "name": "Ojodu Berger",
+                "latitude": "6.64545230",
+                "longitude": "3.36639730"
+            },
+            {
+                "id": 153685,
+                "name": "Ojota",
+                "latitude": "6.58516560",
+                "longitude": "3.37092540"
             },
             {
                 "id": 77058,
@@ -483883,6 +484015,12 @@
                 "name": "Orodo",
                 "latitude": "5.61667000",
                 "longitude": "7.03333000"
+            },
+            {
+                "id": 153670,
+                "name": "Oshodi-Isolo",
+                "latitude": "6.53654830",
+                "longitude": "3.27551430"
             },
             {
                 "id": 77075,
@@ -484071,6 +484209,12 @@
                 "longitude": "12.06059000"
             },
             {
+                "id": 153675,
+                "name": "Shomolu",
+                "latitude": "6.53759550",
+                "longitude": "3.36506450"
+            },
+            {
                 "id": 77104,
                 "name": "Siluko",
                 "latitude": "6.53589000",
@@ -484099,6 +484243,12 @@
                 "name": "Suleja",
                 "latitude": "9.18059000",
                 "longitude": "7.17939000"
+            },
+            {
+                "id": 153669,
+                "name": "Surulere",
+                "latitude": "6.49009830",
+                "longitude": "3.30251430"
             },
             {
                 "id": 77109,
@@ -484227,6 +484377,12 @@
                 "longitude": "7.93350000"
             },
             {
+                "id": 153676,
+                "name": "Victoria Island",
+                "latitude": "6.42998400",
+                "longitude": "3.40224490"
+            },
+            {
                 "id": 77130,
                 "name": "Vom",
                 "latitude": "9.72910000",
@@ -484285,6 +484441,12 @@
                 "name": "Wuyo",
                 "latitude": "10.38522000",
                 "longitude": "11.69678000"
+            },
+            {
+                "id": 153678,
+                "name": "Yaba",
+                "latitude": "6.50594570",
+                "longitude": "3.36012860"
             },
             {
                 "id": 77139,
@@ -915589,7 +915751,7 @@
             },
             {
                 "id": 130995,
-                "name": "Village of ALAMRAH",
+                "name": "Village of Alamrah",
                 "latitude": "13.74318000",
                 "longitude": "43.72992000"
             },

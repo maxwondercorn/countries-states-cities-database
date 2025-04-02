@@ -149467,16 +149467,16 @@
       <longitude>12.54432000</longitude>
     </cities>
     <cities>
-      <id>30957</id>
-      <name>Vallensbæk</name>
-      <latitude>55.62199000</latitude>
-      <longitude>12.38511000</longitude>
-    </cities>
-    <cities>
       <id>30958</id>
       <name>Vallensbæk Kommune</name>
       <latitude>55.63128000</latitude>
       <longitude>12.37369000</longitude>
+    </cities>
+    <cities>
+      <id>30957</id>
+      <name>Vallensbæk Strand</name>
+      <latitude>55.62199000</latitude>
+      <longitude>12.38511000</longitude>
     </cities>
     <cities>
       <id>30960</id>
@@ -498919,10 +498919,28 @@
     <longitude>3.37920570</longitude>
     <country_id>161</country_id>
     <cities>
+      <id>153687</id>
+      <name>Abule Egba</name>
+      <latitude>6.65074410</latitude>
+      <longitude>3.26554510</longitude>
+    </cities>
+    <cities>
+      <id>153665</id>
+      <name>Agege</name>
+      <latitude>6.61522360</latitude>
+      <longitude>3.30029700</longitude>
+    </cities>
+    <cities>
       <id>153661</id>
       <name>Alimosho</name>
       <latitude>6.58890000</latitude>
       <longitude>3.24850000</longitude>
+    </cities>
+    <cities>
+      <id>153672</id>
+      <name>Amuwo-Odofin</name>
+      <latitude>6.44674340</latitude>
+      <longitude>3.19682600</longitude>
     </cities>
     <cities>
       <id>76775</id>
@@ -498937,10 +498955,22 @@
       <longitude>2.88132000</longitude>
     </cities>
     <cities>
+      <id>153677</id>
+      <name>Bariga</name>
+      <latitude>6.53931230</latitude>
+      <longitude>3.37627060</longitude>
+    </cities>
+    <cities>
       <id>76851</id>
       <name>Ebute Ikorodu</name>
       <latitude>6.60086000</latitude>
       <longitude>3.48818000</longitude>
+    </cities>
+    <cities>
+      <id>153686</id>
+      <name>Ebute Metta</name>
+      <latitude>6.48437590</latitude>
+      <longitude>3.37591680</longitude>
     </cities>
     <cities>
       <id>76857</id>
@@ -498955,10 +498985,70 @@
       <longitude>3.98336000</longitude>
     </cities>
     <cities>
+      <id>153666</id>
+      <name>Eti-Osa</name>
+      <latitude>6.46812400</latitude>
+      <longitude>3.37093780</longitude>
+    </cities>
+    <cities>
+      <id>153680</id>
+      <name>Festac</name>
+      <latitude>6.47178330</latitude>
+      <longitude>3.26493870</longitude>
+    </cities>
+    <cities>
+      <id>153674</id>
+      <name>Ibeju-Lekki</name>
+      <latitude>6.45764360</latitude>
+      <longitude>3.62324400</longitude>
+    </cities>
+    <cities>
+      <id>153682</id>
+      <name>Idimu</name>
+      <latitude>6.58337980</latitude>
+      <longitude>3.20442780</longitude>
+    </cities>
+    <cities>
+      <id>153671</id>
+      <name>Ifako-Ijaiye</name>
+      <latitude>6.68309720</latitude>
+      <longitude>3.22079170</longitude>
+    </cities>
+    <cities>
+      <id>153681</id>
+      <name>Igando</name>
+      <latitude>6.55132390</latitude>
+      <longitude>3.22181130</longitude>
+    </cities>
+    <cities>
+      <id>153679</id>
+      <name>Ijora</name>
+      <latitude>6.46330450</latitude>
+      <longitude>3.34062410</longitude>
+    </cities>
+    <cities>
       <id>76932</id>
       <name>Ikeja</name>
       <latitude>6.59651000</latitude>
       <longitude>3.34205000</longitude>
+    </cities>
+    <cities>
+      <id>153663</id>
+      <name>Ikorodu</name>
+      <latitude>6.61526000</latitude>
+      <longitude>3.50690000</longitude>
+    </cities>
+    <cities>
+      <id>153683</id>
+      <name>Ipaja</name>
+      <latitude>6.60983200</latitude>
+      <longitude>3.22299940</longitude>
+    </cities>
+    <cities>
+      <id>153664</id>
+      <name>Isheri-Olofin</name>
+      <latitude>6.58092030</latitude>
+      <longitude>3.27417280</longitude>
     </cities>
     <cities>
       <id>77002</id>
@@ -498967,10 +499057,82 @@
       <longitude>3.39467000</longitude>
     </cities>
     <cities>
+      <id>153662</id>
+      <name>Lagos Island</name>
+      <latitude>6.44999820</latitude>
+      <longitude>3.39999840</longitude>
+    </cities>
+    <cities>
+      <id>153673</id>
+      <name>Lekki</name>
+      <latitude>6.51148130</latitude>
+      <longitude>3.44453810</longitude>
+    </cities>
+    <cities>
       <id>77020</id>
       <name>Makoko</name>
       <latitude>6.49611000</latitude>
       <longitude>3.38778000</longitude>
+    </cities>
+    <cities>
+      <id>153668</id>
+      <name>Mushin</name>
+      <latitude>6.53563240</latitude>
+      <longitude>3.33022530</longitude>
+    </cities>
+    <cities>
+      <id>153684</id>
+      <name>Ogba</name>
+      <latitude>6.62306240</latitude>
+      <longitude>3.33418360</longitude>
+    </cities>
+    <cities>
+      <id>153667</id>
+      <name>Ojo</name>
+      <latitude>6.46202130</latitude>
+      <longitude>3.07969150</longitude>
+    </cities>
+    <cities>
+      <id>153688</id>
+      <name>Ojodu Berger</name>
+      <latitude>6.64545230</latitude>
+      <longitude>3.36639730</longitude>
+    </cities>
+    <cities>
+      <id>153685</id>
+      <name>Ojota</name>
+      <latitude>6.58516560</latitude>
+      <longitude>3.37092540</longitude>
+    </cities>
+    <cities>
+      <id>153670</id>
+      <name>Oshodi-Isolo</name>
+      <latitude>6.53654830</latitude>
+      <longitude>3.27551430</longitude>
+    </cities>
+    <cities>
+      <id>153675</id>
+      <name>Shomolu</name>
+      <latitude>6.53759550</latitude>
+      <longitude>3.36506450</longitude>
+    </cities>
+    <cities>
+      <id>153669</id>
+      <name>Surulere</name>
+      <latitude>6.49009830</latitude>
+      <longitude>3.30251430</longitude>
+    </cities>
+    <cities>
+      <id>153676</id>
+      <name>Victoria Island</name>
+      <latitude>6.42998400</latitude>
+      <longitude>3.40224490</longitude>
+    </cities>
+    <cities>
+      <id>153678</id>
+      <name>Yaba</name>
+      <latitude>6.50594570</latitude>
+      <longitude>3.36012860</longitude>
     </cities>
   </state_city>
   <state_city>
@@ -944372,7 +944534,7 @@
     </cities>
     <cities>
       <id>130995</id>
-      <name>Village of ALAMRAH</name>
+      <name>Village of Alamrah</name>
       <latitude>13.74318000</latitude>
       <longitude>43.72992000</longitude>
     </cities>

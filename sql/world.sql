@@ -5,6 +5,7 @@ DROP TABLE IF EXISTS `subregions`;
 DROP TABLE IF EXISTS `regions`;
 
 
+
 -- -------------------------------------------------------------
 -- TablePlus 5.8.4(532)
 --
